@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`v-tiny-outsideclick ディレクティブの初期化 1`] = `
+<div>
+  <div
+    class="inner"
+  >
+    outside body
+  </div>
+  <div
+    class="outside"
+  >
+    0
+  </div>
+</div>
+`;
